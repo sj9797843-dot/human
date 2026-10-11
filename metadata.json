@@ -1,0 +1,6 @@
+{
+  "name": "SomaScan - Biomechanical Body Analysis & Recovery",
+  "description": "Analyze body structure, symptoms, and biomechanics according to height and body size to generate custom corrective exercises, treatments, and nutritional supplement protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
